@@ -13,11 +13,11 @@ class CopyMail extends Mailable
      *
      * @return void
      */
-    public $msg;
+    public $mail;
 
-    public function __construct($msg)
+    public function __construct($mail)
     {
-        $this->msg = $msg;
+        $this->mail = $mail;
     }
     /**
      * Build the message.
@@ -26,6 +26,6 @@ class CopyMail extends Mailable
      */
     public function build()
     {
-        return $this->view('send.msg');
+        return $this->view('send.mail');
     }
 }

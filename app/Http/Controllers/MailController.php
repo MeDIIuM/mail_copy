@@ -10,7 +10,7 @@ class MailController extends Controller
 {
     public function sendMail()
     {
-        $comment = 'Это сообщение отправлено из формы обратной связи';
+        $comment = 'Это тестовое сообщение';
         $toEmail = "andyandex@mail.ru";
         $copy = 'testing_mail_01@mail.ru';
         Mail::to($toEmail)

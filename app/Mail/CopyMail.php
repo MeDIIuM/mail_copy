@@ -15,11 +15,11 @@ class CopyMail extends Mailable
      *
      * @return void
      */
-    public $msg;
+    public $mail;
 
     public function __construct()
     {
-        $msg = $this->msg ;
+        $mail = $this->mail;
     }
     /**
      * Build the message.

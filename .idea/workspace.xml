@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09d5f4ba-df84-4e84-98ad-07d0c79378e6" name="Default Changelist" comment="" />
+    <list default="true" id="09d5f4ba-df84-4e84-98ad-07d0c79378e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/MailController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/MailController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Mail/CopyMail.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Mail/CopyMail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Mail/TestMail.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Mail/TestMail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/send.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/send.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +18,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -114,6 +123,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YIE0bKW6IVn1hWdwKrrhdSqhoJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -122,7 +132,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laravel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Test" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -191,7 +201,19 @@
       <workItem from="1583325913666" duration="1194000" />
       <workItem from="1583327720395" duration="1969000" />
       <workItem from="1583333407618" duration="1607000" />
-      <workItem from="1583335278048" duration="13000" />
+      <workItem from="1583335278048" duration="457000" />
+      <workItem from="1583932676100" duration="755000" />
+      <workItem from="1583935235826" duration="599000" />
+      <workItem from="1583937065360" duration="751000" />
+      <workItem from="1583996731335" duration="599000" />
+      <workItem from="1583998537755" duration="609000" />
+      <workItem from="1584000349457" duration="1503000" />
+      <workItem from="1584002157740" duration="686000" />
+      <workItem from="1584002855788" duration="602000" />
+      <workItem from="1584005626840" duration="656000" />
+      <workItem from="1584108911226" duration="1263000" />
+      <workItem from="1584110715911" duration="1796000" />
+      <workItem from="1584112530495" duration="603000" />
     </task>
     <servers />
   </component>
@@ -203,10 +225,10 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="590" y="215" width="800" height="684" key="#Composer/70.27.1850.1053@70.27.1850.1053" timestamp="1582621567743" />
-    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1583317221327">
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584344941897">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1583317221327" />
+    <state x="778" y="311" width="424" height="491" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1584344941897" />
     <state width="1804" height="275" key="GridCell.Tab.0.bottom" timestamp="1582621771978">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
@@ -227,10 +249,10 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="734" y="367" width="481" height="380" key="NewPhpClassDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1583306091260" />
-    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1583333447246">
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1584110720627">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1583333447246" />
+    <state x="651" y="381" key="com.intellij.ide.util.TipDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1584110720627" />
     <state x="739" y="188" width="501" height="738" key="refactoring.ChangeSignatureDialog" timestamp="1583325553415">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
